@@ -1,0 +1,5 @@
+/.gradle/
+/.idea/
+/build/
+/reports/
+/concourse-ci/secrets/vars.yml
