@@ -961,8 +961,8 @@ available, see the
 
 ### Author
 
-- **Abhishek Singh Rajput** - _Initial work_ -
-  [abhisheksr01](https://github.com/abhisheksr01)
+- **Soumya Bhattacharya** - _Initial work_ -
+  [sobubla](https://github.com/sobubla)
 
 ### Contributors
 
